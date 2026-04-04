@@ -48,7 +48,7 @@ Este programa ha sido creado en Python y utiliza las siguientes librerías:
 
 3. Inicia el programa: Ejecuta el archivo principal de Python para abrir la aplicación:
    ```bash
-   python graficas_apoyos.py
+   python generacionGraficosUtilizacion.py
    ```
 
 #### Desarrollado por Yure Wagemann Valadares Magalhães.
